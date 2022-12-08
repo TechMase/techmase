@@ -5,6 +5,11 @@
 - <b>Active Directory Home Lab</b>
   - [Active Directory](https://github.com/joshmadakor1/Algorithms-Practice)
 
+<h2>👨‍ Other Projects:</h2>
+
+- <b>ServiceNow Homework Lab</b>
+  - [ServiceNow ITSM](https://github.com/joshmadakor1/Algorithms-Practice)
+
 
 <h2> 🤳 Connect with me:</h2>
 
